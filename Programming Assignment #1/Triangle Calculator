@@ -1,0 +1,9 @@
+Write a program using OnlineGDB that will:
+
+1.	Given an angle "theta" (less than 90 deg) and hypotenuse length from the user,
+calculate the lengths of the opposite and adjacent lengths of a right triangle.
+2.	calculate the area of the triangle and output all results to the screen.
+
+Requirements: The units of measure (cm, meters, inches, feet) should be determined by the user input and included in the output.  The precision of the output should be 4 significant digits
+
+You must include your Algorithm steps 
